@@ -1,4 +1,4 @@
-The site is available at https://maksymmuzychyshyn.github.io/Foundation/
+The site is available at https://maksymmuzychyshyn.github.io/Foundatios/
 
 The tech stack is:
 
